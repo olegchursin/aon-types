@@ -1,0 +1,25 @@
+{
+  "name": "aon-types",
+  "version": "0.0.1",
+  "description": "Aon types test",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olegchursin/aon-types.git"
+  },
+  "keywords": [],
+  "author": "Oleg Chursin <olegchursin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olegchursin/aon-types/issues"
+  },
+  "homepage": "https://github.com/olegchursin/aon-types#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
